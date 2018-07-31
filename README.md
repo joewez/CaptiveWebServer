@@ -7,4 +7,5 @@ Simple web server for serving a website from a captive portal
  - The script however assumes that it is acting as an AP
  - Simply import the script to run the server
  
- 
+DNS Server code culled from:
+    https://github.com/amora-labs/micropython-captive-portal
